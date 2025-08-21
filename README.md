@@ -1,1 +1,2 @@
-# SMPL_Player2
+# SMPL_Player
+SMPL_Player
